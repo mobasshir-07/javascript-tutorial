@@ -1,1 +1,0 @@
-console.log("Mobasshir started learnign JS")

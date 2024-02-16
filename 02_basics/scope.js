@@ -1,0 +1,3 @@
+/* closuer is basically inner function can access outer function members.
+
+*/
